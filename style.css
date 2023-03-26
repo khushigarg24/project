@@ -1,0 +1,621 @@
+body {
+    background-color: black;
+    box-sizing: border-box;
+     /* font-family: 'Rajdhani', sans-serif; */
+}
+
+.head1 h1 {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 70px;
+    animation-name: he1;
+    animation-duration: 3s;
+    text-transform: capitalize;
+    animation-delay: 1s;
+}
+
+@keyframes he1 {
+    0% {
+        opacity: 1;
+    }
+
+    20% {
+        opacity: .8;
+    }
+
+    40% {
+        opacity: .6;
+    }
+
+    60% {
+        opacity: .4;
+    }
+
+    80% {
+        opacity: .2;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+.head2 h1 {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 70px;
+    animation-name: he2;
+    animation-duration: 3s;
+    text-transform: capitalize;
+    animation-delay: 1s;
+}
+
+@keyframes he2 {
+    0% {
+        opacity: 1;
+    }
+
+    20% {
+        opacity: .8;
+    }
+
+    40% {
+        opacity: .6;
+    }
+
+    60% {
+        opacity: .4;
+    }
+
+    80% {
+        opacity: .2;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+.head3 h1 {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 70px;
+    animation-name: he3;
+    animation-duration: 3s;
+    text-transform: capitalize;
+    animation-delay: 1s;
+}
+
+@keyframes he3 {
+    0% {
+        opacity: 1;
+    }
+
+    20% {
+        opacity: .8;
+    }
+
+    40% {
+        opacity: .6;
+    }
+
+    60% {
+        opacity: .4;
+    }
+
+    80% {
+        opacity: .2;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+.head4 h1 {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 80px;
+    letter-spacing: 1px;
+    margin-top: 300px;
+    display: none;
+    text-transform: capitalize;
+}
+
+.head4 p {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 1px;
+    margin-top: 50px;
+    font-weight: lighter;
+    display: none;
+}
+
+.head5 h1 {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 70px;
+    animation-name: he5;
+    animation-duration: 3s;
+    text-transform: capitalize;
+    animation-delay: 1s;
+}
+
+@keyframes he5 {
+    0% {
+        opacity: 1;
+    }
+
+    20% {
+        opacity: .8;
+    }
+
+    40% {
+        opacity: .6;
+    }
+
+    60% {
+        opacity: .4;
+    }
+
+    80% {
+        opacity: .2;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+.head6 h1 {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 70px;
+    animation-name: he6;
+    animation-duration: 3s;
+    text-transform: capitalize;
+    animation-delay: 1s;
+}
+
+@keyframes he6 {
+    0% {
+        opacity: 1;
+    }
+
+    20% {
+        opacity: .8;
+    }
+
+    40% {
+        opacity: .6;
+    }
+
+    60% {
+        opacity: .4;
+    }
+
+    80% {
+        opacity: .2;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+.head7 h1 {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 70px;
+    animation-name: he7;
+    animation-duration: 3s;
+    text-transform: capitalize;
+    animation-delay: 1s;
+}
+
+@keyframes he7 {
+    0% {
+        opacity: 1;
+    }
+
+    20% {
+        opacity: .8;
+    }
+
+    40% {
+        opacity: .6;
+    }
+
+    60% {
+        opacity: .4;
+    }
+
+    80% {
+        opacity: .2;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+.head8 h1 {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 70px;
+    animation-name: he8;
+    animation-duration: 3s;
+    text-transform: capitalize;
+    animation-delay: 1s;
+}
+
+@keyframes he8 {
+    0% {
+        opacity: 1;
+    }
+
+    20% {
+        opacity: .8;
+    }
+
+    40% {
+        opacity: .6;
+    }
+
+    60% {
+        opacity: .4;
+    }
+
+    80% {
+        opacity: .2;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+.head9 h1 {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 70px;
+    animation-name: he9;
+    animation-duration: 3s;
+    text-transform: capitalize;
+    animation-delay: 1s;
+}
+
+@keyframes he9 {
+    0% {
+        opacity: 1;
+    }
+
+    20% {
+        opacity: .8;
+    }
+
+    40% {
+        opacity: .6;
+    }
+
+    60% {
+        opacity: .4;
+    }
+
+    80% {
+        opacity: .2;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+.mi {
+    /* outline: auto; */
+    border: 4px solid rgb(248, 242, 215);
+    margin-top: 250px;
+}
+
+.mi1 {
+    border-right: 4px solid rgb(248, 242, 215);
+}
+
+.mi1 h3 {
+    color: rgb(198, 227, 248);
+    text-align: center;
+    font-size: 80px;
+    letter-spacing: 1px;
+    font-weight: normal;
+}
+
+.mi1 p {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 1px;
+    font-weight: lighter;
+}
+
+.mi2 h3 {
+    color: rgb(250, 187, 191);
+    text-align: center;
+    font-size: 80px;
+    letter-spacing: 1px;
+    font-weight: normal;
+}
+
+.mi2 p {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 1px;
+    font-weight: lighter;
+}
+
+.mi3 {
+    border: 4px solid rgb(248, 242, 215);
+}
+
+.mi3 p {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 1px;
+    /* font-weight: lighter; */
+}
+
+.mi3 p span {
+    background-color: rgb(150, 128, 247);
+}
+
+.hmi4 {
+    margin-top: 100px;
+}
+
+.mi4 h3 {
+    margin-top: 45px;
+    text-align: center;
+    font-size: 80px;
+    letter-spacing: 1px;
+    font-weight: normal;
+    color: rgb(244, 183, 249);
+    transition: 1s;
+}
+
+.mi4 h3:hover {
+    transform: scale(1.2);
+}
+
+.mi4 p {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 1px;
+    line-height: 1.15;
+    border-bottom: 1px solid rgb(248, 242, 215);
+}
+
+.mi4 p span {
+    color: rgb(244, 183, 249);
+}
+
+.mi5 p {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 80px;
+    letter-spacing: 1px;
+    margin-top: 20px;
+}
+
+.mi5 span p {
+    color: rgb(244, 183, 249);
+}
+
+.mi6 {
+    background-color: rgb(26, 26, 26);
+    margin-top: 150px;
+    transform: rotate(-1deg);
+    transition: 1s;
+}
+
+.mi6:hover {
+    transform: rotate(1deg);
+}
+
+.mi6 h3 {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 80px;
+    letter-spacing: 1px;
+    /* margin-top: 100px; */
+}
+
+.mi6 h3 span {
+    background-color: rgb(150, 128, 247);
+}
+
+.mi6 p {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 1px;
+    line-height: 1.15;
+    font-weight: lighter;
+}
+
+.mi7 {
+    background-color: rgb(26, 26, 26);
+    margin-top: 30px;
+    transform: rotate(-1deg);
+    transition: 1s;
+}
+
+.mi7:hover {
+    transform: rotate(1deg);
+}
+
+.mi7 p {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 1px;
+    line-height: 1.15;
+    font-weight: lighter;
+}
+
+.mi7 p span {
+    background-color: rgb(150, 128, 247);
+}
+
+.mi8 {
+    margin-top: 150px;
+    border: 4px solid rgb(248, 242, 215);
+}
+
+.mi8 h3 {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 80px;
+    letter-spacing: 1px;
+}
+
+.mi8 p {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 1px;
+    line-height: 1.15;
+    font-weight: lighter;
+}
+
+.mi9 {
+    margin-top: 100px;
+    border: 2px solid rgb(3, 173, 119);
+}
+
+.mi9 p {
+    color: rgb(3, 173, 119);
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 1px;
+    line-height: 1.15;
+    font-weight: lighter;
+    padding: 8px;
+}
+
+.mi10 p {
+    font-size: 150px;
+    text-align: center;
+    margin-top: 80px;
+    letter-spacing: 1px;
+}
+
+.mi10 p i {
+    padding: 15px 5px;
+}
+
+.p1 {
+    color: rgb(248, 242, 215);
+}
+
+.p2 {
+    color: rgb(248, 242, 215);
+}
+
+.p3 {
+    color: rgb(123, 122, 121);
+}
+
+.p4 {
+    color: rgb(80, 79, 79);
+}
+
+.p5 {
+    color: rgb(62, 62, 62);
+}
+
+.p6 {
+    color: rgb(53, 52, 52);
+}
+
+.mi11 p {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 1px;
+    line-height: 1.15;
+    /* font-weight: lighter; */
+}
+
+.mi12 h1 {
+    color: rgb(248, 242, 215);
+    text-align: center;
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-top: 50px;
+    letter-spacing: 1px;
+}
+
+.mi13 h1 {
+    color: rgb(248, 242, 215);
+    /* text-align: center; */
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-top: 150px;
+    letter-spacing: 1px;
+}
+
+.mic h1 {
+    color: rgb(248, 242, 215);
+    letter-spacing: 1px;
+    text-align: center;
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.head14 {
+    margin-top: 120px;
+}
+
+.sub14 {
+    background-color: rgb(3, 137, 204);
+    margin-top: 10px;
+    /* border: 4px round rgb(3, 137, 204); */
+    border-radius: 20px;
+}
+
+.sub14 p {
+    padding: 5px;
+    font-size: 20px;
+    color: white;
+    letter-spacing: 1px;
+}
+
+.forbor {
+    background-color: rgb(26, 26, 26);
+    margin-top: 50px;
+}
+.footer{
+    margin-top: 100px;
+    background-color: rgb(26, 26, 26);
+}
+.subfoot1{
+    padding: 5px;
+    margin-top: 10px;
+    /* border: 1px solid black; */
+}
+.subfoot1 p a{
+    font-size: 20px;
+    color: white;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-align: center;
+    text-transform: capitalize;
+}
+.subfoot1 p a:hover{
+    color: rgb(9, 126, 126);
+}
